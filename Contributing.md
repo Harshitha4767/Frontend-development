@@ -1,1 +1,5 @@
+# Contributing Guidelines
 
+Thank you for considering contributing!  
+Please fork the repo, create a branch, make changes, and submit a pull request.  
+Follow coding standards and write clear commit messages.
